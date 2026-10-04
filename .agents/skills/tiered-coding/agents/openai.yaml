@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiered Coding"
+  short_description: "Sol decisions and verified Luna execution"
+  default_prompt: "Use $tiered-coding to plan this task, delegate worthwhile bounded work to luna_worker, and review the result."
