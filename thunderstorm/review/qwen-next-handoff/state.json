@@ -1,0 +1,48 @@
+{
+  "project_id": "appgprj_6ac10b6aef288191b1166c8b35161c79",
+  "site_version": 15,
+  "checkout_path": "/workspace/menwai-site",
+  "source_commit": "a2f9a71af9819226633eb95135ad067c64c19176",
+  "model": "qwen-audio-3.1-tts-next",
+  "probe_http_status": 200,
+  "finish_reason": "stop",
+  "request_id": "403d043e-34e9-9e57-b034-ffeec76d99a1",
+  "usage": {
+    "input_tokens": 223,
+    "output_tokens": 1600,
+    "total_tokens": 1823,
+    "duration": 8
+  },
+  "download_status": 403,
+  "download_proxy_connect_status": 403,
+  "blocked_host": "dashscope-result-bj.oss-cn-beijing.aliyuncs.com",
+  "audio_url_expires_shanghai": "2026-10-05T19:43:34+08:00",
+  "required_config_change": {
+    "network_allowed_hosts_add": [
+      "dashscope-result-bj.oss-cn-beijing.aliyuncs.com"
+    ],
+    "secret_allowed_domains_add": []
+  },
+  "synthesized_count": 1,
+  "downloaded_count": 0,
+  "site_updated": false,
+  "resume_script": "generate-next.py",
+  "prepared_requests_directory": "prepared/",
+  "verification": "Awaiting audio download; no content or playback verification claimed",
+  "cached_response_in_github": false,
+  "note": "Successful raw response remains outside GitHub because it contains a temporary signed audio URL. Missing caches must not trigger automatic paid regeneration.",
+  "environment_last_observed": {
+    "observations_current": true,
+    "network_state": "enforced",
+    "secret_state": "ready",
+    "network_allowed_hosts": [
+      "dashscope.aliyuncs.com",
+      "ws-zf7l1ljexja2bd6z.cn-beijing.maas.aliyuncs.com"
+    ],
+    "secret_allowed_domains": [
+      "dashscope.aliyuncs.com",
+      "ws-zf7l1ljexja2bd6z.cn-beijing.maas.aliyuncs.com"
+    ],
+    "audio_download_host_missing": true
+  }
+}

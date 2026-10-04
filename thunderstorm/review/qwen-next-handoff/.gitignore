@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+responses/
+wavs/
+*.wav
+*.wav.part
+*.mp3
+*-response.json
+generation-report-safe.json
+audio-report.json

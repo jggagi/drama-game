@@ -11,6 +11,7 @@
 - [剧情与游戏设计初稿](thunderstorm/docs/story-design.md)
 - [视觉设计初稿](thunderstorm/docs/visual-design.md)
 - [美术需求清单与概念图 Brief](thunderstorm/docs/art-production-brief.md)
+- [Qwen Next 配音试听交接](thunderstorm/review/qwen-next-handoff/README.md)
 
 ## 目录
 
@@ -19,10 +20,12 @@ drama-game/
 ├── README.md
 └── thunderstorm/
     ├── README.md
-    └── docs/
-        ├── story-design.md
-        ├── visual-design.md
-        └── art-production-brief.md
+    ├── docs/
+    │   ├── story-design.md
+    │   ├── visual-design.md
+    │   └── art-production-brief.md
+    └── review/
+        └── qwen-next-handoff/
 ```
 
 ## 子项目边界
